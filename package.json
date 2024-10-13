@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "vitepress": "1.0.0-rc.36"
+  }
+}
