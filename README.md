@@ -1,8 +1,8 @@
 # 2024 中国开源年度报告
 
-![GitHub Repo stars](https://img.shields.io/github/stars/kaiyuanshe/2024-China-Open-Source-Report?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/kaiyuanshe/2024-China-Open-Source-Report?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kaiyuanshe/2024-China-Open-Source-Report?style=for-the-badge)
+![GitHub Repo stars]()
+![GitHub contributors]()
+![GitHub last commit]()
 
 在线地址：https://kaiyuanshe.github.io/2024-China-Open-Source-Report/
 
@@ -11,17 +11,17 @@
 ## 文件目录
 
 - 中文版
-  - [卷首语](./preface.md)
-  - [问卷篇](./questionnaire.md)
-  - [数据篇](./data.md)
-  - [商业化篇](./commercialization.md)
-  - [开源大事记](./open-source-milestones.md)
+  - [卷首语]()
+  - [问卷篇]()
+  - [数据篇]()
+  - [商业化篇]()
+  - [开源大事记]()
 - English
-  - [Preface](./en/preface.md)
-  - [OSS Questionnaire](./en/questionnaire.md)
-  - [OSS Data Analytics](./en/data.md)
-  - [OSS Commercialization](./en/commercialization.md)
-  - [OSS Chronicle](./en/open-source-milestones.md)
+  - [Preface]()
+  - [OSS Questionnaire]()
+  - [OSS Data Analytics]()
+  - [OSS Commercialization]()
+  - [OSS Chronicle]()
 
 ## 许可证
 
